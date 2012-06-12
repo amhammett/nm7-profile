@@ -42,7 +42,7 @@ dependencies[] = ldap_authorization_drupal_role
 dependencies[] = ldap_servers
  
 ; Other
-dependencies[] = fast_404
+;dependencies[] = fast_404
 dependencies[] = globalredirect
 dependencies[] = pathauto
 dependencies[] = redirect
